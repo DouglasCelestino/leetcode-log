@@ -1,10 +1,10 @@
-# LeetCode Grind 75
+# LeetCode 75
 
-Progress log solving 75 LeetCode problems for technical interview preparation.
+Progress log solving the official LeetCode 75 study plan, for technical interview preparation.
 
 ## Structure
 
-- `solutions/grind-75/` — solutions organized by pattern/category (e.g. `01-array-string`, `02-two-pointers`), one folder per problem.
+- `solutions/leetcode-75/` — solutions organized by pattern/category (e.g. `01-array-string`, `02-two-pointers`), one folder per problem.
 - Each problem folder contains:
   - `Solution.cs` — the solution code
   - `notes.md` — concepts, learnings, and mistakes from solving the problem
