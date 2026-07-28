@@ -1,7 +1,11 @@
 # LeetCode 75 Progress
 
-## Array/String (1/9)
-- [x] Greatest Common Divisor of Strings ✓
+**Total: 3/75**
+
+## Array/String (3/9)
+- [x] Greatest Common Divisor of Strings (1071)
+- [x] Merge Strings Alternately (1768)
+- [x] Kids With the Greatest Number of Candies (1431)
 
 ## Two Pointers (0/4)
 
